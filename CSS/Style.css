@@ -81,7 +81,6 @@ nav ul li a:hover {
 .web-contain-list ul {
     display: flex;
     list-style-type: none;
-    justify-content: space-around;
 }
 .web-contain-heading-main h1 {
     font-family: 'Roboto';
@@ -129,7 +128,6 @@ nav ul li a:hover {
 .web-contain-pic img {
     width: 30rem;
     padding: 110px 0 121px 15px;
-    border-bottom: 2px solid #EFEFEF
 }
 .web-contain-button a:hover {
     background-color: rgb(179 34 34);
@@ -147,16 +145,15 @@ nav ul li a:hover {
 }
 .web-contain-button {
     padding: 29px 0;
-    border-bottom: 2px solid #EFEFEF
 }
 .web-contain-main {
-    width: 50%;
-    padding-left: 50px;
+    width: 90%;
+    margin: 0 auto;
 }   
 .travello-main {
     display: flex;
+    border-bottom: 2px solid #EFEFEF
 }   
-
 
 
 
