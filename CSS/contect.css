@@ -1,0 +1,75 @@
+.contect-main {
+    padding-left: 40px;
+}
+.about-heading h1.space {
+    font-family: 'Roboto';
+    font-weight: 600;
+    border-bottom: 3px solid #C53030;
+    width: 6%;
+    letter-spacing: 1px;
+    padding-bottom: 7px;
+    padding-top: 40px;
+}
+.about-description p {
+    font-family: 'Roboto';
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 15px 0; 
+
+}
+
+.about-heading h1 {
+    font-family: 'Roboto';
+    font-weight: 600;
+    border-bottom: 3px solid #C53030;
+    width: 6%;
+    padding-bottom: 7px;
+}
+
+
+
+.about-link-main {
+    display: flex;
+    padding-bottom: 5px;
+}
+.about-links p {
+    font-family: 'Roboto';
+}
+.about-links p.bottom {
+    padding-bottom: 19px;
+    padding-right: 45px;
+}.link a {
+    text-decoration: none;
+    color: #C53030;
+    font-family: 'Roboto';
+}
+.about-links p.hub {
+    padding-right: 39px;
+}
+.about-links p.link {
+    padding-right: 27px;
+}
+i.fa-brands.fa-github {
+    color: #C53030;
+}
+i.fa-brands.fa-linkedin-in {
+    color: #C53030;
+}
+i.fa-solid.fa-envelope .pink {
+    color: #C53030;
+}
+
+
+
+
+
+.footer h3 {
+    background-color: #C53030;
+    font-family: 'Roboto';
+    font-weight: 400;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 18px;
+    margin-top: 312px;
+}
