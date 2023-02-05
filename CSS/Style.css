@@ -37,7 +37,9 @@
 .web-contain-pic{
     width: 50%;
 }
-
+.mat-mdc-form-field:not(.mat-form-field-no-animations) .mdc-text-field__input{
+    margin-top: 10px !important;
+}
 
 
 .side-bar-link h3 {
