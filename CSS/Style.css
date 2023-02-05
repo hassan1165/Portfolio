@@ -63,18 +63,17 @@ nav ul li a:hover {
     padding: 0 0 20px 12px;
     color: #FFFFFF;
 }
-.side-bar-footer-link a.right {
-    color: #C53030;
-    padding: 3px 5px;
-    background-color: #FFFFFF;
-    margin-left: 10px;
-    
+.side-bar-footer-link{
+    width: 80%;
+    margin: 0 auto;
+    color: #FFFFFF;
 }
-.side-bar-footer-link a.left {
-    margin-left: 45px;
-    color:#FFFFFF;
-    font-size: 25px;
-    text-decoration: none;
+.side-bar-footer-link .links{
+    margin-left: 10px;
+}
+.side-bar-footer-link img {
+    width: 25px;
+    height: 25px;
 }   
 
 
